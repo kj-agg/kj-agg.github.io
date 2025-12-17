@@ -36,8 +36,8 @@ I recently completed a PhD in physical chemistry at the University of Oxford und
 ### Septmber 2025
 Successfully completed my PhD. My PhD can be found online [here](https://dx.doi.org/10.5287/ora-zrpxjex6x).
 
-### Aprile 2025
-Our neutron scattering article was published in Chemical Science. See the ISIS Science Highlight [here](https://www.isis.stfc.ac.uk/Pages/SH25_cytosol.aspx).
+### April 2025
+Our neutron scattering article was published in [Chemical Science](https://doi.org/10.1039/D5SC00286A). See the ISIS Science Highlight [here](https://www.isis.stfc.ac.uk/Pages/SH25_cytosol.aspx).
 
 ### March 2025
 Presented some of my [research](https://stemforbritain.org.uk/posters2025/kieran_agg_POS.pdf) at the UK Parliament in the final of STEM for Britain 2025. See the following write-ups:
@@ -46,3 +46,5 @@ Presented some of my [research](https://stemforbritain.org.uk/posters2025/kieran
 - [The Queen's College](https://www.queens.ox.ac.uk/news/current-graduate-student-presents-research-in-parliament/)
 - [Oxford Mail](https://www.oxfordmail.co.uk/news/24964927.oxford-university-scientist-take-research-parliament/)
  
+### February 2023
+Our work was published in [PNAS](https://doi.org/10.1073/pnas.2215585120). See the following Department of Chemistry write-up [here](https://www.chem.ox.ac.uk/article/advancing-understanding-of-interactions-in-electrolyte-solutions).
