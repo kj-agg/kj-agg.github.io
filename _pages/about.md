@@ -36,7 +36,7 @@ My doctoral research focused on investigating interactions and structures in aqu
 # News
 
 ### October 2025
-Our work using the SFB to study proline-salt solutions was published in [Biophysical Journal](https://doi.org/10.1016/j.bpj.2025.09.043).
+Our work using the SFB to study proline-salt solutions was published in [Biophysical Journal](https://doi.org/10.1016/j.bpj.2025.09.043). This article was featured in the IACIS Newsletter which can be read [here](https://www.utwente.nl/en/iacis/archives/newsletters/nl90.pdf).
 
 ### September 2025
 I successfully completed my PhD. My thesis can be found online [here](https://dx.doi.org/10.5287/ora-zrpxjex6x).
